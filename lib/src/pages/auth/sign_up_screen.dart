@@ -97,6 +97,7 @@ class SignUpScreen extends StatelessWidget {
                   ),
                 ],
               ),
+              //Botão voltar
               Positioned(
                 left: 10,
                 top: 10,

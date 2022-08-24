@@ -113,7 +113,7 @@ class SignInScreen extends StatelessWidget {
                         onPressed: () {
                           Navigator.of(context).pushReplacement(
                             MaterialPageRoute(
-                              builder: (context) => BaseScreen(),
+                              builder: (c) => BaseScreen(),
                             ),
                           );
                         },
